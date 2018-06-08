@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'teutonic_no1demibold';
+    src: url('teutonic1-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+/* --- ############# xxx ############# --- */
+*{
+  box-sizing: border-box;
+}
+
+/* --- ############# xxx ############# --- */
+body{
+  font-family: 'Arvo', serif;
+  margin: auto;
+  width: 83%;
+  text-align: center;
+}
+h1{
+  font-family: 'teutonic_no1demibold';
+  font-size: 5.56rem;
+  color: rgb(83,12,16)
+}
+.alt-color{
+  color: #b00017;
+}
+/* --- ############# xxx ############# --- */
+
+
+/* --- ############# xxx ############# --- */
+
+
+/* --- ############# xxx ############# --- */
+
+
+/* --- ############# xxx ############# --- */
+
+
+/* --- ############# xxx ############# --- */
